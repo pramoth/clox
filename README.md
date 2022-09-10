@@ -1,6 +1,7 @@
 ### build with cmake
 
 `cd clox`
+`mkdir cmake-build-debug` // arbitary name
 
 `cmake -S . -B cmake-build-debug`
 
